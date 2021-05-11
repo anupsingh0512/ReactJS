@@ -80,7 +80,7 @@ function Footer(props) {
         </div>
         <div className="row justify-content-center">
           <div className="col-auto">
-            <p>© Copyright 2018 Ristorante Con Fusion</p>
+            <p>© Copyright 2021 Systronix Info Solutions</p>
           </div>
         </div>
       </div>
